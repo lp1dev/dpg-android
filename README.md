@@ -3,7 +3,7 @@
 DPG is a deterministic password generator that does not store data or keep state. Its output is based purely on user input. 
 
 This version is based on https://github.com/w8rbt/dpg. 
-Please read this project's readme before using DPG.
+Please read this [project's readme](https://github.com/w8rbt/dpg/blob/master/readme.md) before using DPG on Android, or to understand why DPG is different than the other password generators.
 
 ## Nota bene
 

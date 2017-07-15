@@ -1,6 +1,6 @@
 ## Deterministic Password Generator - Android Version
 
-![logo](https://github.com/lp1/dpg-android/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+![logo](https://github.com/lp1dev/dpg-android/raw/master/app/src/main/res/web_hi_res_512.png)
     
 DPG is a deterministic password generator that does not store data or keep state. Its output is based purely on user input. 
 

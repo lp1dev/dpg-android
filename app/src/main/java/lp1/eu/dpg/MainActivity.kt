@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         val mContext = this
-        var clipboard: ClipboardManager  = getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
+        val clipboard: ClipboardManager  = getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
         val editTextPassphrase = findViewById(R.id.editText_passphrase) as EditText
         val editTextWord = findViewById(R.id.editText_word) as EditText
         val displayPassButton = findViewById(R.id.button_display_password) as Button

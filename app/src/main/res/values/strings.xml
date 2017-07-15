@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DPG</string>
+    <string name="prompt_passphrase">Passphrase</string>
+    <string name="prompt_word">Word</string>
+    <string name="prompt_show_pass">Show pass</string>
+    <string name="prompt_display_pass">Copy password to clipboard</string>
+    <string name="warning_api_26"><![CDATA[Warning: PBKDF2WithHmacSHA1 encryption will be used on Android versions < O (api 26)]]></string>
+    <string name="textview_password_hint">Long click to reveal the password</string>
+    <string name="button_clear_text">Clear</string>
+</resources>
